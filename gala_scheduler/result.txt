@@ -1,0 +1,38 @@
+1. felvonás:
+------------
+  usernames:     Ancs, 2, 3
+  kikötő:        Domi, 3
+  Kata:          Flóra, Évi, 1
+  passion:       Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+  kpop:          Mimi, 10, 11
+  beecrocs:      Ancs, Manna, Reni
+  H2O:           Domi
+  kikötő:        Gitu, 3
+  supra:         Lulu, Manna, Flóra, Mimi, Petra, Évi
+  Borka:         1, Borka
+  kikötő:        Gitu, 3
+  H2O:           Domi
+  csemeték:      Mimi, Petra, Manna, Tami
+  kikötő:        Gitu, 3
+  Emma:          2
+  girly:         Mimi, Lulu, Manna, Évi, Petra, Ancs, Tami
+
+2. felvonás:
+------------
+  passion:       Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+  kpopduo:       10, 11
+  supra:         Lulu, Manna, Flóra, Mimi, Petra, Évi
+  BorkAncs:      Borka, Ancs
+  kpop:          Mimi, 10, 11
+  passion:       Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+  Kata:          Flóra, Évi, 1
+  csemeték:      Mimi, Petra, Manna, Tami
+  popping:       Krisó, Domi, Ádi
+  supra:         Lulu, Manna, Flóra, Mimi, Petra, Évi
+  usernames:     Ancs, 2, 3
+  Borka:         1, Borka
+  csemeték:      Mimi, Petra, Manna, Tami
+  usernames:     Ancs, 2, 3
+  fura:          Ádi, Gitu, Mimi, Tami, Manna
+  beecrocs:      Domi, Ancs, Reni
+  supra:         Lulu, Manna, Flóra, Mimi, Petra, Évi

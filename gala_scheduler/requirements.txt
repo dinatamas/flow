@@ -1,2 +1,1 @@
--r constraints.pip.txt
-tqdm
+tqdm==4.66.1

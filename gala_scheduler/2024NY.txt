@@ -1,0 +1,48 @@
+supra - X: Lulu, Manna, Flóra, Mimi, Petra, Évi
+supra - X: Lulu, Manna, Flóra, Mimi, Petra, Évi
+supra - 2: Lulu, Manna, Flóra, Mimi, Petra, Évi
+supra - 2: Lulu, Manna, Flóra, Mimi, Petra, Évi
+
+Kata - 1: Flóra, Évi, 1
+Kata - 2: Flóra, Évi, 1
+
+Borka - 1: 1, Borka
+Borka - 2: 1, Borka
+
+kikötő - 1: Domi, 3
+kikötő - 1: Gitu, 3
+kikötő - 1: Gitu, 3
+kikötő - 1: Gitu, 3
+
+H2O - 1: Domi
+H2O - 1: Domi
+
+Emma - 1: 2
+
+passion - 1: Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+passion - 2: Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+passion - 2: Domi, Lulu, Ancs, Manna, Reni, Borka, Ádi, Krisó
+
+beecrocs - X: Domi, Ancs, Reni
+beecrocs - X: Ancs, Manna, Reni
+
+usernames - 1: Ancs, 2, 3
+usernames - X: Ancs, 2, 3
+usernames - X: Ancs, 2, 3
+
+kpop - 1: Mimi, 10, 11
+kpop - 2: Mimi, 10, 11
+
+kpopduo - X: 10, 11
+
+girly - X: Mimi, Lulu, Manna, Évi, Petra, Ancs, Tami
+
+csemeték - 1: Mimi, Petra, Manna, Tami
+csemeték - 2: Mimi, Petra, Manna, Tami
+csemeték - 2: Mimi, Petra, Manna, Tami
+
+BorkAncs - X: Borka, Ancs
+
+fura - X: Ádi, Gitu, Mimi, Tami, Manna
+
+popping - X: Krisó, Domi, Ádi
